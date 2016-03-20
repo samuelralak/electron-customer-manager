@@ -1,0 +1,25 @@
+{
+  "name": "custman",
+  "description": "customer manager app",
+  "main": "main.js",
+  "authors": [
+    "Samuel Ralak"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/samuelralak/electron-customer-manager",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.6",
+    "angular-route": "~1.5.2"
+  }
+}
