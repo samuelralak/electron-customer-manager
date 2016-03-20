@@ -1,0 +1,19 @@
+{
+  "name": "custman",
+  "version": "1.0.0",
+  "description": "customer manager app",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuelralak/electron-customer-manager.git"
+  },
+  "author": "Samuel Ralak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelralak/electron-customer-manager/issues"
+  },
+  "homepage": "https://github.com/samuelralak/electron-customer-manager#readme"
+}
