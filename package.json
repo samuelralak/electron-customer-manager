@@ -18,5 +18,8 @@
   "homepage": "https://github.com/samuelralak/electron-customer-manager#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.37.2"
+  },
+  "dependencies": {
+    "mysql": "^2.10.2"
   }
 }
